@@ -1,0 +1,13 @@
+||ad.de.doubleclick.net^$popup,third-party
+||adperform.de^$popup,third-party
+||adshot.de^$popup,third-party
+||binany-code.com^$popup,third-party
+||cp-network.uk.to^$popup,third-party
+||der-wallstreet-trick.eu^$popup,third-party
+||gamigoads.com^$popup,third-party
+||insta-cash.net^$popup,third-party
+||jinkads.com^$popup,third-party
+||sevenads.net^$popup,third-party
+||websc.org^$popup,third-party
+||xx00.info^$popup,third-party
+||zomap.de^$popup,third-party
