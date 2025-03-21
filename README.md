@@ -2,7 +2,7 @@ Pi-hole Regex Filter - Paranoia Modus
 
 Dieses Repository enthält eine Sammlung von Regex-Filtern für Pi-hole, die das Blockieren von Domains auf die Spitze treiben. Es gibt zwei Hauptdateien:
 
-<a href="https://github.com/rexnox/Raspberrypi/blob/master/Pi-Hole/Regex/all">All-Block Regex/a> → Blockiert alles, was über DNS aufgelöst werden kann. Dies ist ein extremer Paranoia-Modus und sollte mit Bedacht eingesetzt werden.
+<a href="https://github.com/rexnox/Raspberrypi/blob/master/Pi-Hole/Regex/all">All-Block Regex</a> → Blockiert alles, was über DNS aufgelöst werden kann. Dies ist ein extremer Paranoia-Modus und sollte mit Bedacht eingesetzt werden.
 
 <a href="https://github.com/rexnox/Raspberrypi/blob/master/Pi-Hole/Regex/Whitelist/ger_rgx_whlist">Deutsche Whitelist (Regex)</a> → Eine Sammlung von regulären Ausdrücken zur gezielten Freigabe von essenziellen Domains für den deutschen Raum.
 
